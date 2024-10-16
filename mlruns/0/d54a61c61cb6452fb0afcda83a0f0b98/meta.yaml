@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hellfire/git/notebooks-demo/mlruns/0/d54a61c61cb6452fb0afcda83a0f0b98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54a61c61cb6452fb0afcda83a0f0b98
+run_name: ./results
+run_uuid: d54a61c61cb6452fb0afcda83a0f0b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729036864211
+status: 1
+tags: []
+user_id: hellfire
